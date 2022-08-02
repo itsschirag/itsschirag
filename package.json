@@ -1,0 +1,20 @@
+{
+  "name": "liberal",
+  "version": "1.0.0",
+  "description": "Webpage for a news comparison site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirag S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "mongoose": "^6.5.0",
+    "nodemon": "^2.0.19",
+    "requests": "^0.3.0"
+  }
+}
